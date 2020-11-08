@@ -200,20 +200,4 @@ public class CityTempMethod {
         return id;
     }
 }
-/* logical 
- * function fillCityTemp 
- * print array data    printArray( )
- * find max of each col (day)   //  max_arr(int[] a)
- * find min of each col (day)   //  min_arr(int[] a)
- * find average of each column (day)  // avg_arr(int[] a)
- * Find max address for every day    // ax_id(int[] a)
- * Find min address for every day    //  min_id(int[] a)
- * 
- * find max of each row (City)  // max_arr(int[] a)
- * find min of each row (City)  // min_arr(int[] a)
- * find average of each row (City)   //avg_arr(int[] a)
- * find how many days taht tmep above the avg and temp below avg for each city // for loop
- * Find max address of each city   // ax_id(int[] a)
- * Find min address of each city   //  min_id(int[] a)
- * print result
- */
+
