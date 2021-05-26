@@ -1,1 +1,1 @@
-# CSC_239_project
+# LeetCode
